@@ -1,4 +1,3 @@
-{{-- ISI NAVBAR --}}
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <div class="container">
         <a class="navbar-brand" href="#">Belajar Laravel 12</a>
@@ -19,6 +18,9 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/product">Produk Kami</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/category">Kategori Produk</a>
                 </li>
             </ul>
         </div>
